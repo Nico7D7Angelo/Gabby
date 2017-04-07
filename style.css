@@ -3,9 +3,11 @@ h1{
 	color:purple;
 
 }
-
 p{
 	font-size:80px;
 	color:pink;
 
+}
+body{
+	background-image: url("galaxy.jpg");
 }
