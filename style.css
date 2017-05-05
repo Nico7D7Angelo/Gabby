@@ -5,7 +5,7 @@ title{
 }h1{
 	font-size:72px;
 	color:white;
-
+}
 	@keyframes swageffect{
 	    0%  {color:purple;}
 	   25%  {color:blue;}
@@ -20,13 +20,13 @@ title{
 	   75%  {color:white;}
 	   100% {color:black;}
 	}
-	{
+	h1{
 	  font-family: 'Bungee Shade', cursive;
 	  -webkit-animation-name: swageffect; /* Safari 4.0 - 8.0 */
 	  -webkit-animation-duration: 5s;
 	  animation-name: swageffect;
 	  font-size: 60px;
-	  animation-duration: 1s;
+	  animation-duration: 5s;
 	  animation-iteration-count: infinite;
 	  -webkit-animation-iteration-count: infinite;
 	}
